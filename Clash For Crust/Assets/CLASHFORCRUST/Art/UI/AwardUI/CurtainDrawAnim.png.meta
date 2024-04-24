@@ -1,0 +1,2793 @@
+fileFormatVersion: 2
+guid: 20709f91002de5f4f8d3093d37ff88f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CurtainDrawAnim_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 885
+        width: 168
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9517cc51fc086d04b9a77cc7ba38e09f
+      internalID: -689625810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 885
+        width: 170
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c87487681196a479773140fed08935
+      internalID: -1762697682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 885
+        width: 170
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e2d081575d374d9c801beee48582f
+      internalID: 1371230700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 885
+        width: 170
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb503a8fa50cc4a9b41686229204d8
+      internalID: -439603198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 885
+        width: 171
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c45e89331f0074093218e5c147adff
+      internalID: -1177385616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_5
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 885
+        width: 172
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f7d46313eccd41ad50c4d1015ea93
+      internalID: 1942429170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 885
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2be42bbe50160428937a18154998c7
+      internalID: -408033373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_7
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 885
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2771adcd2b724098316edece5feb2
+      internalID: 1758399276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_8
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 885
+        width: 168
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b186a6e0300e4288a6d8fdbbe2773
+      internalID: -1926394330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_9
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 885
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aeb063267a2194894369f3e9348450
+      internalID: -86511419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_10
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 885
+        width: 168
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3063f6f8dd4d2649a4f16199b9867c0
+      internalID: 1968215095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_11
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 885
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb9861af36d4a44af5bab67feca780
+      internalID: 1388636306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870c37e0874aad4db9b0db390b4fc4d
+      internalID: 1017289488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f823cb6177bfeaa41aa1d38d917e28d6
+      internalID: 663450712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269bad309f5ee0c4dbf43162bc31bda3
+      internalID: -646224487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d59318f9e3a5b145b8f049456fa3755
+      internalID: 826557101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4172b10bcc8f6942a260ea31a0f8b16
+      internalID: -1059284967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_17
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f409b9da34ad4a9006e51a9661e07
+      internalID: -86061658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_18
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e1c7d86af8bc84e993f70a1f14930a
+      internalID: -1135465579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_19
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1bef9fc347d344b036d7052397424
+      internalID: -1268313156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_20
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b164e91c9f684598aa3964f4654e7
+      internalID: -540220441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_21
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbeaf55e0b49c74aa806f0fbd5a9489
+      internalID: 55949855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_22
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 787
+        width: 168
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f248542cc45bf418b0a52fc1eb6ec1
+      internalID: -1530598479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_23
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 787
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070084672fb12da4fa4301ced9e8b966
+      internalID: -2045295252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54822a834fdca1b4d835e862b66b6bdb
+      internalID: 735788071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4e11bc0e5f16a40be70f6084b29cae
+      internalID: 400639473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc48f002b819c4ba5a79a1ced1ca89
+      internalID: -1084996829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_27
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c253c35f7424d8e4ba7f6be77d67fb4f
+      internalID: 917926867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_28
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6b438d0d115ca45a2541331ef4b497
+      internalID: -968361812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_29
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1fd0482eb05654097d427414a24f6e
+      internalID: 339127245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_30
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2902969919694eb841bf16d36cedd
+      internalID: 1088933567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_31
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c088acc7670374592b7293b6fe10fc
+      internalID: -593865753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_32
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2562e181465a4ea099d51aa66894e
+      internalID: 1949348903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_33
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b789da6a688687b4c998030df96a05ab
+      internalID: -187446342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_34
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642aaf0b8a3fcdd4e82fdca3f3cfb2bc
+      internalID: -1590344225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_35
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 689
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2d924ef08f3942872b0c9698f4d77
+      internalID: 924523264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c770f2437f01474db8655775956e297
+      internalID: 1966119938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd24be5a616ede428a9ade7b5691577
+      internalID: -588733672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe7251dc74a6a24da732f00a77daf9b
+      internalID: 1744019971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e055949b95504e889590b13f2880e
+      internalID: -400434427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_40
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e558c31dfe8c40a58f3757a5fb0b5
+      internalID: 1631948222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_41
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179adc7417a9f84ca8d1ec89ffa5c9c
+      internalID: -1326208068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_42
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15abae592dead943a01bd6c2e197f7a
+      internalID: -1416954078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_43
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6044980d031aa5b4f9d757f7a9838e51
+      internalID: 583521471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_44
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc0eedd081aae41815f21fa90754ad
+      internalID: -1709999183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_45
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1cb3795aa77e6449a47950d9a10870
+      internalID: 866655256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_46
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce31c85b8071df4797bcece134e9da6
+      internalID: -1659085408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_47
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 591
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e424ba75d01240ae2a8f608e9fdc8
+      internalID: 1093710302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c301d826b5aae4e996f54fa7ee03c0
+      internalID: -815182403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_49
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff435b7e7765fb4880ae1c9b64c1600
+      internalID: -493565404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_50
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2fd4c7d7181ec42be446cb137fee9b
+      internalID: 395037703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_51
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242e3b98445fc142a39ae1496395e44
+      internalID: -317500638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_52
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d6bd3d36492246bdd0d3afe11b66c
+      internalID: -892747030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_53
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b08adfef9d73a4bb1e294e18ae6883
+      internalID: 1717642771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_54
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f81b02015df367499e09b4e9cb1ed61
+      internalID: -1373652927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_55
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69512513ecc42d243b716a7e7e4ce623
+      internalID: -2089768416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_56
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abed96180e96064c8b068bd49c027b1
+      internalID: 623989131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_57
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5ea65657372cd44a9b925bdd4e06ce
+      internalID: -1421704940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_58
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d5ed3042bd02249acb695490ff795f
+      internalID: 604056533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_59
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 493
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ea18b7867921440a0e77357e85a4c4
+      internalID: -109328170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dba7467b01f864a866967cb518aa27
+      internalID: -1929750317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55181f0d0f338d4ea8a55489fd40925
+      internalID: -1112222543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_62
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9aee01d8698ba418176bb898e18127
+      internalID: -395887471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_63
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872637e8251e7714c9c0d51e6a320933
+      internalID: -981977248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_64
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5110e2c3b74e2c45bfa9f0e41fa2984
+      internalID: 211896186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_65
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373b0970e227c44fb0dda9703c7e2fc
+      internalID: 1352325267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_66
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b055980dd576714986643d47438af1f
+      internalID: -2037592069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_67
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24510cf370485488237a1d347c3db6
+      internalID: 985376057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_68
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df89f2f412e7d774cab2e0a996d2e116
+      internalID: -265761971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_69
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487f1551d96d0fb4990a3ef12d3de4e3
+      internalID: 409165134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_70
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715a4031af85d44e8de51d692f6c9aa
+      internalID: 1567040431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_71
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 395
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce7c3e4eb92624fbc21bd5370eb5fe
+      internalID: -250163775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6687d56dbd6577742ac4e6c7872043a5
+      internalID: -1922782769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad543b63913764eb8a22167f6bb5c5
+      internalID: -157798898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa5d0c06ef6668449b55775322d5fb4
+      internalID: -1132186301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_75
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956645a485d706a47a63b833735579fe
+      internalID: -355523279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_76
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c481bda2b5e394fb061b295d69d583
+      internalID: 1229719805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_77
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11693dbfd0fec428b1be94d2a84854
+      internalID: 374927740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_78
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462a0b8097626649948ae5662751b41
+      internalID: -515109711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_79
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9afc49a149b2f4c8de9086daa9a3d7
+      internalID: 878594256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_80
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d88027ad1d10bc4cb7f314a3cc9b978
+      internalID: 785856847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_81
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096ec2ec6518f04da0bcf25f6c1cd12
+      internalID: 1712882427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_82
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4dbb7aec635624485d97ec0eb83d71
+      internalID: -443789437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_83
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 297
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99502446411e44a47b348cca598c9371
+      internalID: -1037246281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c8a457e40f0342bc3092ab7d60f98
+      internalID: 1559398703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_85
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64debd60efca5c45a34d3e64c3efe06
+      internalID: -1927769750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_86
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30bfc37084500648ac125897b14251b
+      internalID: 1561823673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_87
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da95ec7c943d18f409071f0e1506c751
+      internalID: -717364991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_88
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c46f81ffa93b40a255ea67e024f70
+      internalID: -432872603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_89
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28787ae8caa2c3640a75eaf9cd1693b6
+      internalID: -1504471718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_90
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a2f79585e486419eaed47cff56062
+      internalID: 1575652945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_91
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1bb29d59ce12547876521e590ae58a
+      internalID: -401092246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_92
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4d75005cefe3043a95f9eb53821d67
+      internalID: 1689135303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_93
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cdff33a9f17664eb7a4f2fed7f4e6e
+      internalID: 1730845450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_94
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01eabfb8de1e44a8409fe9bff44483
+      internalID: 1292767203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_95
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 198
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d08c784406934439350cc9b6d14b9a
+      internalID: -1376036047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c73d714ec309b4981feb08513fedbb
+      internalID: -486177386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_97
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6ab16ba0036734aba52efba307a720
+      internalID: -1750281762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_98
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9ac8f5d744ee4f93dd720f624e1fd
+      internalID: 753262868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_99
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c78b823bf12734eb763c0f3a804206
+      internalID: 805165025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_100
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce128f30ae3af50429fc18e1ef23bb2f
+      internalID: -1101155358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_101
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4145cb6fd058ae94893a95446f3ae6e9
+      internalID: -1799601409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_102
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ee6e669322e6448b9b5e5393204a9
+      internalID: -926675088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_103
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8c78ac19a3064abe7c7cf5f7dfda3
+      internalID: -1968606741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_104
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424c39c82b732a47819ed2943cd6879
+      internalID: 1143947766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_105
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc55092bdb8df141bb6bfe8df1e339c
+      internalID: -1900413316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_106
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90b9c2c3e9b6c42ab3d80df84e9a1e
+      internalID: -1796904932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_107
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 100
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd884f46d876704da99dda23b5d11e4
+      internalID: 1052035584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5fc0cbf257124fbb436762d6b97ff
+      internalID: 1497875434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc88586aee973444e931578d867e1db8
+      internalID: -1282102423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_110
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bcb161121eba54998b68be9e3a7498
+      internalID: -1048237158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_111
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121b07248b5dd549817d780f29ddf70
+      internalID: -990423017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_112
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01aa4adc3fcdc346a96e9b7048635df
+      internalID: 307326016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_113
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e946ad49fd8f1424d8369bb8b0e52ecf
+      internalID: -1466696605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_114
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200dccf8fba3a94fb1739f4e69b97eb
+      internalID: -2071133253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_115
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561322db00052c842b61f62c08fc8f3c
+      internalID: 1107052435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_116
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e8d98ac2e0254493c571bac1838ce
+      internalID: -1786669957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_117
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a6e9d61d937a84884510ef7b8c9e9e
+      internalID: 1343968416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_118
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293ccf818f71a347b1fe67fe5668952
+      internalID: 2056436127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainDrawAnim_119
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2
+        width: 169
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589ff8261dbe1f4884badfc02ad09bb
+      internalID: -2013612735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c7d6821f67288f44883872d9a5fa64f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CurtainDrawAnim_0: -689625810
+      CurtainDrawAnim_1: -1762697682
+      CurtainDrawAnim_10: 1968215095
+      CurtainDrawAnim_100: -1101155358
+      CurtainDrawAnim_101: -1799601409
+      CurtainDrawAnim_102: -926675088
+      CurtainDrawAnim_103: -1968606741
+      CurtainDrawAnim_104: 1143947766
+      CurtainDrawAnim_105: -1900413316
+      CurtainDrawAnim_106: -1796904932
+      CurtainDrawAnim_107: 1052035584
+      CurtainDrawAnim_108: 1497875434
+      CurtainDrawAnim_109: -1282102423
+      CurtainDrawAnim_11: 1388636306
+      CurtainDrawAnim_110: -1048237158
+      CurtainDrawAnim_111: -990423017
+      CurtainDrawAnim_112: 307326016
+      CurtainDrawAnim_113: -1466696605
+      CurtainDrawAnim_114: -2071133253
+      CurtainDrawAnim_115: 1107052435
+      CurtainDrawAnim_116: -1786669957
+      CurtainDrawAnim_117: 1343968416
+      CurtainDrawAnim_118: 2056436127
+      CurtainDrawAnim_119: -2013612735
+      CurtainDrawAnim_12: 1017289488
+      CurtainDrawAnim_13: 663450712
+      CurtainDrawAnim_14: -646224487
+      CurtainDrawAnim_15: 826557101
+      CurtainDrawAnim_16: -1059284967
+      CurtainDrawAnim_17: -86061658
+      CurtainDrawAnim_18: -1135465579
+      CurtainDrawAnim_19: -1268313156
+      CurtainDrawAnim_2: 1371230700
+      CurtainDrawAnim_20: -540220441
+      CurtainDrawAnim_21: 55949855
+      CurtainDrawAnim_22: -1530598479
+      CurtainDrawAnim_23: -2045295252
+      CurtainDrawAnim_24: 735788071
+      CurtainDrawAnim_25: 400639473
+      CurtainDrawAnim_26: -1084996829
+      CurtainDrawAnim_27: 917926867
+      CurtainDrawAnim_28: -968361812
+      CurtainDrawAnim_29: 339127245
+      CurtainDrawAnim_3: -439603198
+      CurtainDrawAnim_30: 1088933567
+      CurtainDrawAnim_31: -593865753
+      CurtainDrawAnim_32: 1949348903
+      CurtainDrawAnim_33: -187446342
+      CurtainDrawAnim_34: -1590344225
+      CurtainDrawAnim_35: 924523264
+      CurtainDrawAnim_36: 1966119938
+      CurtainDrawAnim_37: -588733672
+      CurtainDrawAnim_38: 1744019971
+      CurtainDrawAnim_39: -400434427
+      CurtainDrawAnim_4: -1177385616
+      CurtainDrawAnim_40: 1631948222
+      CurtainDrawAnim_41: -1326208068
+      CurtainDrawAnim_42: -1416954078
+      CurtainDrawAnim_43: 583521471
+      CurtainDrawAnim_44: -1709999183
+      CurtainDrawAnim_45: 866655256
+      CurtainDrawAnim_46: -1659085408
+      CurtainDrawAnim_47: 1093710302
+      CurtainDrawAnim_48: -815182403
+      CurtainDrawAnim_49: -493565404
+      CurtainDrawAnim_5: 1942429170
+      CurtainDrawAnim_50: 395037703
+      CurtainDrawAnim_51: -317500638
+      CurtainDrawAnim_52: -892747030
+      CurtainDrawAnim_53: 1717642771
+      CurtainDrawAnim_54: -1373652927
+      CurtainDrawAnim_55: -2089768416
+      CurtainDrawAnim_56: 623989131
+      CurtainDrawAnim_57: -1421704940
+      CurtainDrawAnim_58: 604056533
+      CurtainDrawAnim_59: -109328170
+      CurtainDrawAnim_6: -408033373
+      CurtainDrawAnim_60: -1929750317
+      CurtainDrawAnim_61: -1112222543
+      CurtainDrawAnim_62: -395887471
+      CurtainDrawAnim_63: -981977248
+      CurtainDrawAnim_64: 211896186
+      CurtainDrawAnim_65: 1352325267
+      CurtainDrawAnim_66: -2037592069
+      CurtainDrawAnim_67: 985376057
+      CurtainDrawAnim_68: -265761971
+      CurtainDrawAnim_69: 409165134
+      CurtainDrawAnim_7: 1758399276
+      CurtainDrawAnim_70: 1567040431
+      CurtainDrawAnim_71: -250163775
+      CurtainDrawAnim_72: -1922782769
+      CurtainDrawAnim_73: -157798898
+      CurtainDrawAnim_74: -1132186301
+      CurtainDrawAnim_75: -355523279
+      CurtainDrawAnim_76: 1229719805
+      CurtainDrawAnim_77: 374927740
+      CurtainDrawAnim_78: -515109711
+      CurtainDrawAnim_79: 878594256
+      CurtainDrawAnim_8: -1926394330
+      CurtainDrawAnim_80: 785856847
+      CurtainDrawAnim_81: 1712882427
+      CurtainDrawAnim_82: -443789437
+      CurtainDrawAnim_83: -1037246281
+      CurtainDrawAnim_84: 1559398703
+      CurtainDrawAnim_85: -1927769750
+      CurtainDrawAnim_86: 1561823673
+      CurtainDrawAnim_87: -717364991
+      CurtainDrawAnim_88: -432872603
+      CurtainDrawAnim_89: -1504471718
+      CurtainDrawAnim_9: -86511419
+      CurtainDrawAnim_90: 1575652945
+      CurtainDrawAnim_91: -401092246
+      CurtainDrawAnim_92: 1689135303
+      CurtainDrawAnim_93: 1730845450
+      CurtainDrawAnim_94: 1292767203
+      CurtainDrawAnim_95: -1376036047
+      CurtainDrawAnim_96: -486177386
+      CurtainDrawAnim_97: -1750281762
+      CurtainDrawAnim_98: 753262868
+      CurtainDrawAnim_99: 805165025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

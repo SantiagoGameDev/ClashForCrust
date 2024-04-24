@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/_Persistent.unity
+    guid: bdb81e7bcf8c69d458585c6f55b56d54
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/Customization.unity
+    guid: fe721a7d04851784da40daaa1d43cf0f
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/RulesMenu.unity
+    guid: 3eebd4fb4744dfd4ba182e5da528fc91
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/Carnival.unity
+    guid: 140ab934c2f48054988729aa39d5a3e0
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/Boardwalk Reese.unity
+    guid: 1ca1b02fc5f813b41abe7640fbb3f77a
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/PiratePeak.unity
+    guid: 3aa1b91a2fd1dfc45a2b812c4c1904f2
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/AwardShow.unity
+    guid: b3754f1dadfb17a409825e718602f32b
+  - enabled: 1
+    path: Assets/CLASHFORCRUST/Scenes/Credits.unity
+    guid: 9c7813daebabeb44388c9747143826a5
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/Carnival New.unity
+    guid: c9ae36949b5ad144f9deb7fa795b59bf
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/Menu New.unity
+    guid: 9afe6703c7b6ef64c898b7a8ba43c3d9
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/Animation Showcase/MapShowcase.unity
+    guid: 88d82121f42ade349a53481ec4d07685
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/TestScenes/ModelShowcase.unity
+    guid: 995920a21c886074e8d1c5e91d2c5162
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/TestScenes/CarniDrew.unity
+    guid: 9af1a42272ce090458bd8fb8cdfa1d98
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/TestScenes/DanCarnivalNew.unity
+    guid: ad7cccb75042af0448c92ae1d82b5625
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/Animation Showcase/AnimationShowcase.unity
+    guid: f9bb8ff1c838c74499640a57b3f82d05
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/SocialMediaScenes/CarnivalBMSV.unity
+    guid: 31ce4a43299475d48bed1168d4db975b
+  - enabled: 0
+    path: Assets/CLASHFORCRUST/Scenes/SocialMediaScenes/CarnivalBMSV2.unity
+    guid: 3811af5053bb436449b069e6282b313a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ccf16cc443a4a2d4797a1401f6567a2e, type: 2}

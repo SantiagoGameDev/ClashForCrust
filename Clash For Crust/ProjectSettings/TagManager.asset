@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - ShotPool
+  - ShitPool
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - DonutPickup
+  - FireworkPickup
+  - PopcornPickup
+  - CrustPickup
+  - ChiliPepperPickup
+  - DonutProjectile
+  - PopcornProjectile
+  - FireworkProjectile
+  - PepperProjectile
+  - Obstical
+  - PlayerCollider
+  - CrustSpawn
+  - P1Spawn
+  - P2Spawn
+  - P3Spawn
+  - P4Spawn
+  - FryPickup
+  - CrustZoomCameraPosition
+  - SeagullZoomCameraPosition
+  - ShitPoolHitbox
+  - ScrewPickup
+  - SeagullShotPlayerIndicator
+  - DashHitBox
+  - SpinHitBox
+  - Wave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - OnlyCollideWithGround
+  - Ground
+  - Obstacle
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Indicators
+    uniqueID: 3318963565
+    locked: 0
+  - name: On Top
+    uniqueID: 1870774205
+    locked: 0
